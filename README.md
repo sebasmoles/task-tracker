@@ -27,10 +27,10 @@ npm run serve
 npm run build
 ```
 
-### Version
+## Version
 
 1.0.0
 
-### License
+## License
 
 This project is licensed under the MIT License
