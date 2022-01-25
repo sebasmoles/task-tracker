@@ -1,9 +1,11 @@
 # Task Tracker Web App
 
-- A simple task tracker web app that manages complete CRUD operations.
+- A simple task tracker web app that handles complete CRUD operations.
 -  It was built using [Vue CLI v4.x](https://cli.vuejs.org/) for the front-end, and [json-server](https://www.npmjs.com/package/json-server) fake REST API for the backend.
 
-## Project setup
+# Project setup
+
+## Install dependencies
 
 ```
 npm install
